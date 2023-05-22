@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="email_required">Email is Required</string>
+    <string name="email_invalid">Invalid Email Format</string>
+    <string name="password_min">Password must contains minimum 8 character</string>
+    <string name="login_text">Login to Your Account</string>
+    <string name="register_text">Don\'t Have Account? Register Now!</string>
+    <string name="name">Name</string>
+    <string name="name_required">Name is Required</string>
+    <string name="register_account">Register Account</string>
+    <string name="register">REGISTER</string>
+    <string name="have_account">Already have an Account? Login Now!</string>
+    <string name="user_created">User Created</string>
+    <string name="email_taken">Email is Already Taken</string>
+    <string name="user_not_found">User not found</string>
+    <string name="login_success">Login Success</string>
+    <string name="data_incorrect">Fill data correctly!</string>
+    <string name="logout">Logout</string>
+    <string name="email_password_incorrect">Email or Password is Incorrect</string>
+    <string name="posted_by">Posted by %1$s</string>
+    <string name="description">Description</string>
+    <string name="refresh">Refresh</string>
+    <string name="story_details">Story Details</string>
+    <string name="all_story">All Stories</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="change_language">Change Language</string>
+    <string name="upload_story">Upload Story</string>
+    <string name="maps">Maps</string>
+    <string name="maps_story">Maps Story</string>
+    <string name="retry">Retry</string>
+</resources>
